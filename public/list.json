@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "title": "The magical journey begins",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.harrypotterfanzone.com/philosophers-stone-adult-edition.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Harry Potter and the Chamber of Secrets",
+        "title": "The secrets of the chamber unfold",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.harrypotterfanzone.com/chamber-of-secrets-adult-edition.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "title": "Unveiling the mystery of the prisoner",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.harrypotterfanzone.com/prisoner-of-azkaban-adult-edition.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Harry Potter and the Goblet of Fire",
+        "title": "The thrilling tournament begins",
+        "price": 299,
+        "category": "Free",
+        "image": "https://media.harrypotterfanzone.com/goblet-of-fire-adult-edition.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Harry Potter and the Order of the Phoenix",
+        "title": "The fight against darkness escalates",
+        "price": 299,
+        "category": "Magic",
+        "image": "https://media.harrypotterfanzone.com/order-of-the-phoenix-adult-edition.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Harry Potter and the Half-Blood Prince",
+        "title": "Unraveling the mystery of the Half-Blood Prince",
+        "price": 399,
+        "category": "Magic",
+        "image": "https://media.harrypotterfanzone.com/half-blood-prince-adult-edition.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Harry Potter and the Deathly Hallows",
+        "title": "The final battle begins",
+        "price": 349,
+        "category": "Magic",
+        "image": "https://media.harrypotterfanzone.com/deathly-hallows-adult-edition.jpg"
+    }
+]
