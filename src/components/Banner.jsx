@@ -31,7 +31,7 @@ function Banner() {
             </label>
 
           </div>
-          <button className="btn mt-6 btn-secondary">Secondary</button>
+          <button className="btn mt-6 btn-secondary">Get Start !!</button>
         </div>
 
       {/* Right Section with Image */}

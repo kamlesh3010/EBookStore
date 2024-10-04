@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Login from './Login';
 import { document } from 'postcss';
+import { useAuth } from '../context/AuthProvider';
+import Logout from './Logout';
 
 function Navbar() {
   const [theme,setTheme]=useState(localStorage.getItem("theme")? localStorage.getItem("theme") :"light");
@@ -22,6 +24,9 @@ function Navbar() {
   
   // }, [theme]); 
 
+  const [authUser, setAuthUser] = useAuth(); // useAuth needs to be invoked as a function
+  
+  // console.log(authUser);
 
   const [sticky, setSticky] = useState(false);
 
